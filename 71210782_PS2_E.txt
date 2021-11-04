@@ -1,0 +1,1 @@
+gelas yang terisi lebih dahulu adalah gelas nomor 2 karena dari air kran menuju ke gelas nomor 4 kemudian mengalirkan iar ke gelas nomor 2 dan 6. tetapi pada gelas no 6 nanti akan mengalirkan lagi ke gelas nomor 7 sehingga nantinya lebih lama penuh. sedangkan gelas nomor 2 akan lebih penuh dahulu karena di nomor 2 tidak mengalirkan kemana-mana sehingga akan lebih cepat penuh. 
